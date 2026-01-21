@@ -6,7 +6,9 @@ Causal inference allows us to understand cause-and-effect relationships rather t
 
 ## Books
 [1] Causality by Judea Pearl
+
 [2] Causal Inference: What If by James Robins and Miguel A. Hernan
+
 [3] Causal Inference in Statistics: A Primer by Judea Pearl, Madelyn Glymour, and Nicholas P. Jewell
 
 
